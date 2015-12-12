@@ -9,16 +9,19 @@
 
 Simple Emitter for browser similar to the one in Node
 
+Not yet ready for public usage.
 
 If you have different needs regarding the functionality, please add a [feature request](https://github.com/alykoshin/mini-emitter/issues).
 
 ## Installation
 
 ```sh
-npm install --save mini-emitter>
+npm install --save mini-emitter
 ```
 
 ## Usage
+
+Not yet ready for public usage.
 
 ## Credits
 [Alexander](https://github.com/alykoshin/)
