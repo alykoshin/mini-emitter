@@ -1,7 +1,7 @@
 [![npm version](https://badge.fury.io/js/mini-emitter.svg)](http://badge.fury.io/js/mini-emitter)
 [![Build Status](https://travis-ci.org/alykoshin/mini-emitter.svg)](https://travis-ci.org/alykoshin/mini-emitter)
 [![Coverage Status](http://coveralls.io/repos/alykoshin/mini-emitter/badge.svg?branch=master&service=github)](http://coveralls.io/github/alykoshin/mini-emitter?branch=master)
-[![Code Climate](https://codeclimate.com/github/alykoshin/require-dir-all/badges/gpa.svg)](https://codeclimate.com/github/alykoshin/mini-emitter)
+[![Code Climate](https://codeclimate.com/github/alykoshin/mini-emitter/badges/gpa.svg)](https://codeclimate.com/github/alykoshin/mini-emitter)
 
 [![Dependency Status](https://david-dm.org/alykoshin/mini-emitter/status.svg)](https://david-dm.org/alykoshin/mini-emitter#info=dependencies)
 [![devDependency Status](https://david-dm.org/alykoshin/mini-emitter/dev-status.svg)](https://david-dm.org/alykoshin/mini-emitter#info=devDependencies)
