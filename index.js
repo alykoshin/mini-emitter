@@ -4,6 +4,10 @@
 
 'use strict';
 
+if ( typeof module !== 'undefined' && typeof require !== 'undefined') {
+  var debug = require('mini-debug');
+}
+
 /**
  *
  * Based on WildEmitter
