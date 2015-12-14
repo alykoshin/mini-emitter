@@ -1,6 +1,6 @@
 {
   "name": "mini-emitter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple Emitter for browser similar to the one in Node",
   "main": "app/index.js",
   "scripts": {
